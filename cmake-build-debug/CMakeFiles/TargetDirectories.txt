@@ -1,0 +1,3 @@
+/Users/shankydoodle/Assignments/2Spring2019/OS/bonusQueThread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shankydoodle/Assignments/2Spring2019/OS/bonusQueThread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shankydoodle/Assignments/2Spring2019/OS/bonusQueThread/cmake-build-debug/CMakeFiles/bonusQueThread.dir
